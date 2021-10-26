@@ -1,0 +1,16 @@
+
+.centrage{
+    
+        display: flex ;
+        align-items: center;
+        justify-content: center;
+        margin-top: 1%;
+    
+}
+
+
+
+body{
+    background-color: black;
+}
+
